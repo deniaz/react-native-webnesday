@@ -12,12 +12,12 @@ import {
   View
 } from 'react-native';
 
-import App from './src/Hello';
+import App from './src/App';
 
 export default class WebnesdayApp extends Component {
   render() {
     return (
-      <Hello />
+      <App />
     );
   }
 }
